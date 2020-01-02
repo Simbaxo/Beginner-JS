@@ -1,11 +1,16 @@
 /* eslint-disable no-console */
 // Function Definition
+const bill = 100
+const taxRate = 0.13
+
 function calculateBill() {
   // this is the function body
   console.log('Running Calculate Bill')
-  const total = 100 * 1.13
-  console.log(total)
+  const total = bill * 1 + taxRate
+  return total
 }
 
 // Function Call
-calculateBill()
+const myTotal = calculateBill()
+consty myTotal2 = calculateBill()
+console.log(myTotal, myTotal2)
