@@ -8,6 +8,9 @@
 // }
 
 // Function Expression
-const doctorize = function(firstName) {
-  return `Dr. ${firstName}`
-}
+// const doctorize = function(firstName) {
+//   return `Dr. ${firstName}`
+// }
+
+// Arrow Functions
+const inchToCM = inches => inches * 2.54
