@@ -2,4 +2,4 @@
 
 # Beginner JavaScript
 
-These are the starter files and solutions to the [Beginner JavaScript](https://BeginnerJavaScript.com) course by Wes Bos
+These are the starter files and solutions to the brand new [Beginner JavaScript](https://BeginnerJavaScript.com) course by Wes Bos
